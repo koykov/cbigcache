@@ -1,6 +1,3 @@
-// Tiny JSON library with primitive marshal/unmarshal features.
-// The purpose of existence - don't want to use external libs.
-
 #ifndef CBIGCACHE_JSON_H
 #define CBIGCACHE_JSON_H
 
